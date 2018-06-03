@@ -4,6 +4,15 @@ Taiga is an open-source desktop application for Windows. It automatically detect
 
 Visit our [home page](http://taiga.moe) for more information. See the [guidelines](https://github.com/erengy/taiga/wiki/Guidelines) if you'd like to contribute. Here's [how to compile](https://github.com/erengy/taiga/wiki/How-to-Compile).
 
+### Source
+
+This repository is cloned from: [erengy/taiga](https://github.com/erengy/taiga).
+
+### Changes
+
+- Added: Masterani streaming service detection
+- Edited: README.md file
+
 ## Related projects
 
 - [Anime relations](https://github.com/erengy/anime-relations): Episode redirections

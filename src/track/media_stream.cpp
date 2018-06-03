@@ -144,11 +144,11 @@ static const std::vector<StreamData> stream_data{
   // Masterani
   {
     Stream::Masterani,
-    taiga::kStream_Ann,
+    taiga::kStream_Masterani,
     L"Masterani",
-    L"https://www.animenewsnetwork.com/video/",
+    L"https://www.masterani.me",
     // std::regex("animenewsnetwork\\.(?:com|cc)/video/[0-9]+"),
-    std::regex("masterani\\.me/anime/watch/[^/]+/Episode-[0-9]"),
+    std::regex("masterani\\.me/anime"),
     std::regex("(.+) - Masterani"),
   },
 };

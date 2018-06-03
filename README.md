@@ -11,7 +11,7 @@ This repository is cloned from: [erengy/taiga](https://github.com/erengy/taiga).
 ### Changes
 
 - Added: Masterani streaming service detection
-- Edited: README.md file
+- Edited: `README.md` file
 
 ## Related projects
 

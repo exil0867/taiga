@@ -116,6 +116,7 @@ enum AppSettingName {
   kStream_Wakanim,
   kStream_Yahoo,
   kStream_Youtube,
+  kStream_Masterani,
 
   // Sharing
   kShare_Discord_Enabled,

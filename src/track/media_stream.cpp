@@ -141,6 +141,16 @@ static const std::vector<StreamData> stream_data{
     std::regex("youtube\\.com/watch"),
     std::regex(u8"YouTube|(?:\u25B6 )?(.+) - YouTube"),
   },
+  // Masterani
+  {
+    Stream::Masterani,
+    taiga::kStream_Ann,
+    L"Masterani",
+    L"https://www.animenewsnetwork.com/video/",
+    // std::regex("animenewsnetwork\\.(?:com|cc)/video/[0-9]+"),
+    std::regex("masterani\\.me/anime/watch/[^/]+/Episode-[0-9]"),
+    std::regex("(.+) - Masterani"),
+  },
 };
 
 const std::vector<StreamData>& GetStreamData() {

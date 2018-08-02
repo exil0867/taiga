@@ -12,6 +12,8 @@ This repository is cloned from: [erengy/taiga](https://github.com/erengy/taiga).
 
 - Added: Masterani streaming service detection
 
+<img src="http://i.imgur.com/YRVp8ee.gif">
+
 ## Related projects
 
 - [Anime relations](https://github.com/erengy/anime-relations): Episode redirections

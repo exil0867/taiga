@@ -4,6 +4,10 @@ Taiga is an open-source desktop application for Windows. It automatically detect
 
 Visit our [home page](http://taiga.moe) for more information. See the [guidelines](https://github.com/erengy/taiga/wiki/Guidelines) if you'd like to contribute. Here's [how to compile](https://github.com/erengy/taiga/wiki/How-to-Compile).
 
+### Download
+
+https://github.com/ExillustX/taiga/releases/tag/v1.3.0
+
 ### Source
 
 This repository is cloned from: [erengy/taiga](https://github.com/erengy/taiga).
